@@ -1,0 +1,27 @@
+.buttons input{
+    height: 60px;
+    width: 60px;
+    border-radius: 7px;
+    padding: 20px;
+    background: transparent;
+    cursor: pointer;
+    font-size: 13px;
+}
+#display{
+    width: 250px;
+    height: 30px;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100%;
+    background:rgb(128, 154, 128);
+}
+.buttons{
+    padding: 3px;
+}
+.container{
+    background:#e3f9ff ;
+}
